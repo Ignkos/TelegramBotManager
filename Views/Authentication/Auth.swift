@@ -1,6 +1,6 @@
 import Foundation
 
-let url = "http://192.168.1.26:8000"
+let url = "http://Your_IP:8000"
 
 struct authenticate: Codable{
     let email: String
